@@ -26,4 +26,13 @@ I am a student interested in science, engineering, and technology. This reposito
 - AI Study Assistant
 - Physics Formula Quiz
 
+## Skills I'm Learning
+
+- Python
+- Physics
+- Mathematics
+- Problem Solving
+- Artificial Intelligence
+- Engineering Concepts
+
 "Stay curious. Keep building."
